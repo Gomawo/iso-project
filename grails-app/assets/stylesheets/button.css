@@ -1,0 +1,18 @@
+button {
+    background-color: white;
+    border-color: #cccccc;
+    border-radius: 5px;
+    color: #00c7ff;
+    font-weight: 600;
+    padding: 10px 20px;
+    width: 100%;
+}
+
+.btn-check {
+    margin-top: 15px;
+}
+
+.btn-generate {
+    background-color: #424649;
+    color: white;
+}
